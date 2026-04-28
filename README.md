@@ -56,14 +56,14 @@ Users
 ## 📸 Screenshots
 
 ```
-assets/screenshots/login.png
-assets/screenshots/register.png
-assets/screenshots/forgetpassword.png
-assets/screenshots/home.png
-assets/screenshots/schedule.png
-assets/screenshots/schedule_2.png
-assets/screenshots/chatbot.png
-assets/screenshots/setting.png
+assets/screenshots/login.jpg
+assets/screenshots/register.jpg
+assets/screenshots/forgetpassword.jpg
+assets/screenshots/home.jpg
+assets/screenshots/schedule.jpg
+assets/screenshots/schedule_2.jpg
+assets/screenshots/chatbot.jpg
+assets/screenshots/setting.jpg
 
 ```
 
